@@ -2,6 +2,7 @@
 #############################################################
 
 
+# creating work directory
 dir.create(file.path("C:/", "EdaCaseStudy"), showWarnings = FALSE)
 
 #setting up the work directory
